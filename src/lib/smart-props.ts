@@ -13,26 +13,4 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-export const smartProps: {[index: string]: string} = {
-  firstName: 'name.firstName',
-  middleName: 'name.firstName',
-  lastName: 'name.lastName',
-  nickName: 'name.findName',
-  name: 'name.findName',
-  informalName: 'name.findName',
-  phone: 'phone.phoneNumber',
-  email: 'internet.email',
-  primaryEmail: 'internet.email',
-  initials: 'address.countryCode',
-  avatarUrl: 'internet.avatar',
-  emailAddress: 'internet.email',
-  username: 'internet.userName',
-  startDate: 'date.past',
-  createdOn: 'date.past',
-  createdAt: 'date.past',
-  companyName: 'company.companyName',
-  date: 'date.past',
-  endDate: 'date.future',
-  id: 'random.uuid',
-  oid: 'random.uuid',
-};
+export const smartProps: {[index: string]: string} = {};
