@@ -1,5 +1,5 @@
 {
-  "name": "intermock",
+  "name": "intermock-without-smart-props",
   "version": "0.2.5",
   "description": "Automatically create mock objects and JSON from TypeScript interfaces via Faker",
   "repository": {
