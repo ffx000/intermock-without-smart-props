@@ -1,4 +1,12 @@
-# intermock [![Build Status](https://api.travis-ci.org/google/intermock.svg?branch=master)](https://travis-ci.org/google/intermock)
+This forked version of [google/intermock](https://github.com/google/intermock) do not uses smart-props to avoid interface type substitution.
+See this issue [#75](https://github.com/google/intermock/issues/75)
+
+## Installation
+```
+npm install intermock-without-smart-props
+```
+
+# intermock 
 Mocking library to create mock objects and JSON for TypeScript interfaces via Faker.
 
 **This is not an officially supported Google product.**
